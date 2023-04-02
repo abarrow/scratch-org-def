@@ -1,0 +1,69 @@
+{
+  "orgName": "ScratchOrg-Pharma",
+  "edition": "Enterprise",
+  "release": "Preview",
+  "features": [
+    "DeferSharingCalc",
+    "EnableSetPasswordInApi",
+    "SalesforceContentUser",
+    "StateAndCountryPicklist",
+    "MultiCurrency",
+    "ForceComPlatform",
+    "LiveAgent",
+    "LightningScheduler",
+    "ServiceCloud"
+  ],
+  "objectSettings": {
+    "lead": {
+      "sharingModel": "private"
+    }
+  },
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "pathAssistantSettings": {
+      "pathAssistantEnabled": true
+    },
+    "accountSettings": {
+      "enableAccountHistoryTracking": true,
+      "enableAccountTeams": true,
+      "enableContactHistoryTracking": true,
+      "enableRelateContactToMultipleAccounts": true,
+      "showViewHierarchyLink": true
+    },
+    "opportunitySettings": {
+      "autoActivateNewReminders": true,
+      "customizableProductSchedulesEnabled": false,
+      "doesEnforceStandardOpportunitySaveLogic": true,
+      "enableFindSimilarOpportunities": false,
+      "enableOpportunityFieldHistoryTracking": true,
+      "enableOpportunityTeam": true,
+      "enableUpdateReminders": true,
+      "promptToAddProducts": false
+    },
+    "quoteSettings": {
+      "enableQuote": true
+    },
+    "enhancedNotesSettings": {
+      "enableEnhancedNotes": true
+    },
+    "languageSettings": {
+      "enableTranslationWorkbench": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "nameSettings": {
+      "enableMiddleName": true,
+      "enableNameSuffix": true
+    },
+    "surveySettings" : {
+      "enableSurvey": true,
+      "enableSurveyOwnerCanManageResponse": true
+    },
+    "userManagementSettings": {
+      "enableNewProfileUI": true
+    }
+  }
+}
