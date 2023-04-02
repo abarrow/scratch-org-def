@@ -1,5 +1,5 @@
 {
-  "orgName": "ScratchOrg-Pharma",
+  "orgName": "Pharma2",
   "edition": "Enterprise",
   "features": [
     "DeferSharingCalc",
@@ -11,7 +11,8 @@
     "LiveAgent",
     "LightningScheduler",
     "ServiceCloud",
-    "HealthCloudAddOn"
+    "HealthCloudAddOn",
+    "ContactsToMultipleAccounts"
   ],
   "objectSettings": {
     "lead": {
