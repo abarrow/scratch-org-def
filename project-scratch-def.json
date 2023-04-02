@@ -1,7 +1,6 @@
 {
   "orgName": "ScratchOrg-Pharma",
   "edition": "Enterprise",
-  "release": "Preview",
   "features": [
     "DeferSharingCalc",
     "EnableSetPasswordInApi",
@@ -11,7 +10,8 @@
     "ForceComPlatform",
     "LiveAgent",
     "LightningScheduler",
-    "ServiceCloud"
+    "ServiceCloud",
+    "HealthCloudAddOn"
   ],
   "objectSettings": {
     "lead": {
