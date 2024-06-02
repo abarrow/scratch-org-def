@@ -1,6 +1,7 @@
 {
   "orgName": "Pharma2",
   "edition": "Enterprise",
+  "hasSampleData": "true",
   "features": [
     "DeferSharingCalc",
     "EnableSetPasswordInApi",
